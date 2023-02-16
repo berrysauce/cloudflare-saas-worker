@@ -1,4 +1,4 @@
-# berrysauce Custom Domain Worker
+# Cloudflare for SaaS — Custom Domain Worker
 This Cloudflare worker with HonoJS is used as a fallback for proxied domains with Cloudflare SSL/TLS for SaaS.
 
 ### How to configure Cloudflare for SaaS (Custom domains for customers)
