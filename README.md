@@ -4,7 +4,7 @@ This Cloudflare worker with HonoJS is used as a fallback for proxied domains wit
 ### What is the use of this?
 This is an example of how to add custom domains for your customers to your SaaS service.
 
-### How to configure Cloudflare for SaaS (Custom domains for customers)
+### How to configure Cloudflare for SaaS
 To use Cloudflare for SaaS, follow these steps:
 
 1. Enable Cloudflare for SaaS in the zone settings
